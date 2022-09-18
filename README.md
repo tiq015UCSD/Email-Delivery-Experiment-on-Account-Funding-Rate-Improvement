@@ -1,4 +1,5 @@
 # Email Delivery Experiment on Account Funding Rate Improvement
+- Link to the project: https://github.com/tiq015UCSD/Email_Delivery_Experiment_on_Account_Funding_Rate_Improvement/blob/main/Tian_Qin_Email_Experiment.ipynb
 ## Background / Observation  
 Imagine you are working for a fintech company, such as Square, Webull, etc. The company’s goal is always to improve account link rate, funding rate, activities (trading or not) etc.  
 We see a common pattern, across different use cases, when it comes to encouraging users to take an action. The pattern is as follows - segment users, target them with messages and find an optimal message that works and productizes it.   
